@@ -65,7 +65,7 @@ corrigidos.
 
 ## 4. Como usar
 
-Basta clicar [aqui] (https://cecilialevenstein.github.io/SAP004-cipher/src/)
+Basta clicar [aqui](https://cecilialevenstein.github.io/SAP004-cipher/src/)
 
 
 
