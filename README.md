@@ -69,7 +69,7 @@ Basta clicar [aqui](https://cecilialevenstein.github.io/SAP004-cipher/src/)
 
 
 
-Para instalar em sua máquina:
+**Para instalar em sua máquina:**
 
 *Entre no link: (https://github.com/cecilialevenstein/projeto-cifra-de-cesar)
 
