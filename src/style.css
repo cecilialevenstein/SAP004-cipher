@@ -1,0 +1,18 @@
+.root{
+        margin-top: 12%;
+        width: 200px;
+        justify-content: center;
+        font-family: 'Poppins', sans-serif;
+
+}
+
+body{
+        background-image: url("images/mockup.png");
+        background-color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-size: 1090px ;
+        background-position: top;     
+        background-attachment: local;
+        margin-left: 43%;
+}
