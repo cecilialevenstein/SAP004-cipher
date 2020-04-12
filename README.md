@@ -9,10 +9,12 @@
 * [5. Checklist](#9-checklist)
 * [6. Autoria](#4-Autoria)
 
+
 ## 1. Prefácio
 
 Com base na Cifra de César, foi proposto para as alunas SAP004 da Laboratória criar
 um codificador de mensagens. 
+
 
 ## 2. Resumo do projeto
 
@@ -37,28 +39,48 @@ Chegando na fase final, desenvolvi primeiramente o código JS que seria respons�
 pela ativação do DOM no arquivo cipher, onde estaria o código reponsável pela codificação
 das mensagens e onde os as funções estariam armazenadas.
 
+
 ## 3. Conhecimentos adquiridos
 
 *Criar um planejamento com base na metodologia ágil e colocá-lo em prática
 ao mesmo tempo que é alterado de acordo com a demanda.
+
 *Discutir com colegas de squad e sala sobre possíveis resoluções dos problemas enfrentados
 e desenvolver solo.
+
 *Entender necessidades do usuário (exercicío proposto) e a partir disso, criar 
 a melhor solução que atenda aos requisitos.
+
 *Criar um fluxograma de ativdades e prototipação do produto.
+
 *Fazer o fork e clone do projeto.
+
 *Utilizar HTML,CSS,JavaScript e trabalhar com seus códigos em conjunto.
+
 *Entender a importancia do teste e localizar erros apresentados podendo assim serem 
 corrigidos.
+
 *Implementar funções, controle de fluxo e DOM.
+
 
 ## 4. Como usar
 
+Basta clicar [aqui] (https://cecilialevenstein.github.io/SAP004-cipher/src/)
+
+
+
+Para instalar em sua máquina:
+
 *Entre no link: (https://github.com/cecilialevenstein/projeto-cifra-de-cesar)
+
 *Faça cópia do repositório (fork) em seu github.
+
 *Faça o clone do seu fork em sua máquina.
+
 *Em seu terminal, crie uma pasta para seu clone.
+
 *Instale o node.js e rode o clone no terminal.
+
 
 ## .5 Checklist
 
@@ -89,6 +111,7 @@ corrigidos.
 * [x] Cifrar/decifrar minúsculas.
 * [x] Cifrar/decifrar _outros_ caractéres (espações, pontuação, `ç`, `á`, ...).
 * [x] Permitir usar `offset` negativo.
+
 
 ## .6 Autoria
 
